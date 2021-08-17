@@ -1,3 +1,11 @@
+<!--
+ * @Author: your name
+ * @Date: 2021-08-06 15:07:32
+ * @LastEditTime: 2021-08-17 14:30:45
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: /study/icons-react/README.md
+-->
 <h1 align="center">
 Ant Design Icons for React
 </h1>
@@ -44,4 +52,6 @@ interface AntdIconProps {
 npm run generate
 npm run compile
 npm publish
+
+
 ```

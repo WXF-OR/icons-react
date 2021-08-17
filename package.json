@@ -5,7 +5,7 @@
   "module": "./es/index.js",
   "unpkg": "./dist/index.umd.js",
   "sideEffects": false,
-  "repository": "https://github.com/ant-design/ant-design-icons/tree/master/packages/icons-react",
+  "repository": "https://github.com/ant-design/design-icons/packages/icons-react",
   "contributors": [
     "HeskeyBaozi<hezhiyu233@foxmail.com>",
     "vagusX<vagusxl@gmail.com>"
